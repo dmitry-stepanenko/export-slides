@@ -1,0 +1,20 @@
+{
+  "name": "export-slides",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "export": "tsx index.ts"
+  },
+  "devDependencies": {
+    "@antfu/utils": "^0.7.10",
+    "@types/yargs": "^17.0.33",
+    "cli-progress": "^3.12.0",
+    "fs-extra": "^11.2.0",
+    "kolorist": "^1.8.0",
+    "pdf-lib": "^1.17.1",
+    "playwright-chromium": "^1.49.0",
+    "pptxgenjs": "^3.12.0",
+    "tsx": "^4.19.2",
+    "yargs": "^17.7.2"
+  }
+}
